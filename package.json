@@ -1,0 +1,14 @@
+{
+    "name": "bmi_calculator",
+    "version": "1.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^20.0.1"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
+}
